@@ -15,7 +15,6 @@ body {
     color: black;
     
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
 }
 
 /* cabeçalho */
@@ -34,7 +33,7 @@ h1 {
 
     font-family: 'Inter', sans-serif;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 3em;
 
     padding-top: 50px;
 }
@@ -45,9 +44,9 @@ h1 {
 
     font-family: 'Inter', sans-serif;
     font-weight: 600;
-    font-size: 0.90em;
+    font-size: 1.2em;
 
-    margin: 35px 0;    
+    padding-bottom: 30px;    
 }
 
 nav {
@@ -107,7 +106,7 @@ h3 {
 }
 
 p {
-    font-weight: 100;
+    font-weight: 500;
     font-size: 1em;
     
     text-align: justify;
